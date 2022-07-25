@@ -11,6 +11,3 @@
 
 ![image](./public/assets/images/Screen%20Shot%202022-07-25%20at%209.37.19%20AM.png)
 
-# Video Link:
-
-* https://drive.google.com/file/d/15QRH40dmDinqLqbp6Lbcvpv7i-_w_TyH/view
