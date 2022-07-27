@@ -5,7 +5,7 @@
 
 # Link:
 
-* https://raklotzbach.github.io/Note-Taker/
+* https://note-taker-8675309.herokuapp.com
 
 # Screenshot:
 
